@@ -1,0 +1,14 @@
+<Array>
+<Name>Array in</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>CypheredText</Name>
+<Val>3dYiBggICAhji41NSFUq/0Z0iRHGjTMO7caMGHHUICENJNdiKJ2ceaIKDxjMcZ1Y
+xo17R/dhIlKM5V36</Val>
+</String>
+<String>
+<Name>CypheredText</Name>
+<Val>LfwgAg8PDw/YgThAQ09OLHm/opanYVrNBQrecR5vMTcaUw/sO5untz5TUMYXkdKW
+hYmpF7qW</Val>
+</String>
+</Array>
