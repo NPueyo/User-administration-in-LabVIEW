@@ -1,18 +1,20 @@
 This library was created to protect the access to the VI while it is in Run-time.
 
-You can create users with different levels (2 by default, User and Admin) giving different options fot each one (you can hide/ enable/ disable/ gray out  controls and indicators).
+You can create users With Different levels ( 2 by default , User and Admin) for giving each one different options (you can hide / enable / disable / gray out controls and ndicators) .
 
-There are 4 Popup VIs (Login, New User, Read Log, Read Users files) that manage the creation and administraiton of users.
+There are four Popup VIs ( Login , New User, Log Read , Read Users files) That manage the creation and administraiton of users .
 
-By design you have to create the first user with pswd creator.vi.
+By design You Have to create the first user with pswd  creator.vi .
 
-In order to use this VIs I recommend to change the values in cypher log and cypher users (this VIs keep the password to encrypt and decrypt the files where users and log are saved) and do not forget to create one folder called "file" to save in log.txt and users.txt.
+Change the values in cypher log and cypher users (this VIs keep the passwords to encrypt and decrypt log.txt and users.txt )
 
-For further information there is a demo.vi
+Log.txt and users.txt are saved in a folder called "files" in the root path.
+
+For Further information there is a demostration for using this VIs called demo.vi .
 
 
 
-Based in:
+Inspired on:
 http://forums.ni.com/t5/LabVIEW/how-to-create-login-and-password-for-my-application/m-p/787259/highlight/true#M359694
 
 https://decibel.ni.com/content/docs/DOC-21163
